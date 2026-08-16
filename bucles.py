@@ -21,7 +21,7 @@ else:
     print('sale del while')
 #print('continua el codigo')
 
-'''
+
 # ingresar dos numero sumen o resten , con menu
 
 
@@ -49,7 +49,6 @@ for n in range(0,5,2):
   '''
 for i in range(1,6):
     if i == 3:
-        pass
+        pass 
     print(i) 
 
-'''
